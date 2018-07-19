@@ -3,7 +3,7 @@ This group project was inspired out of a curiosity for assessing crime rates thr
 
 ![False Color Geographical Heatmap- chicago crime](/geographical%20graph%20with%20false%20color%20heat%20map.png)
 
-* Crime Hot Spot: downtown, southside, Area between Oak Park and Downtown
+* Crime Hot Spot: downtown, southside, and Area between Oak Park and Downtown
 * Overall crime in Chicago has declined
 * Top crime types committed were theft and battery
 * Recurring high crime rate during the summer periond (June - August)
