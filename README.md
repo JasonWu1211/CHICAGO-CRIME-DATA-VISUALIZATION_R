@@ -5,5 +5,5 @@ This group project was inspired out of a curiosity for assessing crime rates thr
 
 * Crime Hot Spot: downtown, southside, Area between Oak Park and Downtown
 * Overall crime in Chicago has declined
-* Top crime types committed were theft, battery
+* Top crime types committed were theft and battery
 * Recurring high crime rate during the summer periond (June - August)
